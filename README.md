@@ -13,7 +13,7 @@ It allows you to define targets in a `Makefile` and run them directly from the t
 ## Installation
 
 ### From Installer (recommended)
-1. Download the latest `pymake-setup-<version>.exe` from [GitHub Releases](https://github.com/argoarsiks/pymake/releases).
+1. Download the latest `pymake-setup-1.0.0.exe` from [GitHub Releases](https://github.com/argoarsiks/pymake/releases).
 2. Run the installer (may require admin rights).
 
 ## Usage
